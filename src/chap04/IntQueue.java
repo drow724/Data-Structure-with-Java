@@ -67,7 +67,7 @@ public class IntQueue {
 		}
 		return -1;											// 검색 실패
 	}
-
+	
 	// 큐를 비움
 	public void clear() {
 		num = front = rear = 0;
